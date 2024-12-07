@@ -20,17 +20,17 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Embora o objetivo inicial fosse trabalhar com o MidJourney, isso não foi possivel, porque ele não ofecere mais a versão gratuita. Deste modo, o substitui pelo o leonard.ai. 
+Todos os prompts seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonard.ai](https://app.leonardo.ai)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de ebook sobre o tema como criar bons prompts no leonard.ai, o ebook é o nicho da inteligência artificial e o subnicho é  de design, o título deve ser engraçado, e tenha uma temática de super heróis no título, me liste 5 variações de títulos.                                                      |
+| conteúdo |Me escreva um texto para ebook, com foco em ensinar como se cria prompt no leonard.ai para se gerar com o mesmo personagem várias cenas, listando exemplos de histórias em quadrinhos. 
+(REGRAS)       
+>Explique sempre de uma maneira simples           
+>Deixe o texto enxuto  
+>Sempre traga exemplos de histórias e as imagens geradas    
+>Dê um nome aos capitulos |
 
 
-Midjourney：
+Leonard.ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Uma cena de super-herói no estilo futurista, com uma figura central segurando uma caneta digital que emite uma luz poderosa. Ao fundo, uma cidade moderna com arranha-céus iluminados por telas holográficas e gráficos vibrantes. As cores predominantes são azul, roxo e dourado, criando um efeito de energia ao redor da figura. No canto inferior direito, a logo do Leonard.ai, discreta, mas visível, com um brilho suave ao redor. Estilo moderno, com detalhes tecnológicos e uma atmosfera de inovação." |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonard.ai
 
 ## 📚 Materiais
 
