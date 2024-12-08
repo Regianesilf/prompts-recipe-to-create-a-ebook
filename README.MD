@@ -81,7 +81,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/RegianesilfCode">
     GitHub</a>&nbsp;|&nbsp;
-    <a href=""</a>
+    <a href="">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/regianesilf/profilecard/?igsh=djlpNHY4cTc1YWhw">Instagram</a>
 &nbsp;|&nbsp;
