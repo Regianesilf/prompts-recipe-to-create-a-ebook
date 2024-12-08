@@ -41,8 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de ebook sobre o tema como criar bons prompts no leonard.ai, o ebook é o nicho da inteligência artificial e o subnicho é  de design, o título deve ser engraçado, e tenha uma temática de super heróis no título, me liste 5 variações de títulos.                                                      |
-| conteúdo |Me escreva um texto para ebook, com foco em ensinar como se cria prompt no leonard.ai para se gerar com o mesmo personagem várias cenas, listando exemplos de histórias em quadrinhos. 
-(REGRAS)       
+| conteúdo |Me escreva um texto para ebook, com foco em ensinar como se cria prompt no leonard.ai para se gerar com o mesmo personagem várias cenas, listando exemplos de histórias em quadrinhos. (REGRAS)      
 >Explique sempre de uma maneira simples           
 >Deixe o texto enxuto  
 >Sempre traga exemplos de histórias e as imagens geradas    
@@ -84,7 +83,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="</a>
 &nbsp;|&nbsp;
-    <a href=">https://www.instagram.com/regianesilf/profilecard/?igsh=djlpNHY4cTc1YWhw"
+    <a href="https://www.instagram.com/regianesilf/profilecard/?igsh=djlpNHY4cTc1YWhw"
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
