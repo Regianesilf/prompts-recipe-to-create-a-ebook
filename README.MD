@@ -84,7 +84,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="</a>
 &nbsp;|&nbsp;
-    <a href="">
+    <a href=">https://www.instagram.com/regianesilf/profilecard/?igsh=djlpNHY4cTc1YWhw"
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
