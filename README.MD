@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/reg.png"
     width="400"  
 />
 </p>
@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Embora o objetivo inicial fosse trabalhar com o MidJourney, isso não foi possivel, porque ele não ofecere mais a versão gratuita. Deste modo, o substitui pelo o leonard.ai. 
 Todos os prompts seguem abaixo.
 
-<https://github.com/Regianesilf/prompts-recipe-to-create-a-ebook/blob/main/output/e-book%20liga%20dos%20prompts.pdf> 📕Clique aqui para ler</a>
+(https://github.com/Regianesilf/prompts-recipe-to-create-a-ebook/blob/main/output/e-book%20liga%20dos%20prompts.pdf) 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -83,8 +83,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/regianesilf/profilecard/?igsh=djlpNHY4cTc1YWhw"
-    Instagram</a>
+    <a href="https://www.instagram.com/regianesilf/profilecard/?igsh=djlpNHY4cTc1YWhw" Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
