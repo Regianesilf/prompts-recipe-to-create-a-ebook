@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Embora o objetivo inicial fosse trabalhar com o MidJourney, isso não foi possivel, porque ele não ofecere mais a versão gratuita. Deste modo, o substitui pelo o leonard.ai. 
 Todos os prompts seguem abaixo.
 
-<"https://github.com/Regianesilf/prompts-recipe-to-create-a-ebook/blob/main/output/e-book%20liga%20dos%20prompts.pdf"> 📕Clique aqui para ler</a>
+<https://github.com/Regianesilf/prompts-recipe-to-create-a-ebook/blob/main/output/e-book%20liga%20dos%20prompts.pdf> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
